@@ -8,3 +8,6 @@
   - name: execute a second task
     debug:
       msg: second task
+  - name: execute a third task
+    debug:
+      msg: third task
