@@ -5,3 +5,6 @@
   - name: execute a first task
     debug:
       msg: first task
+  - name: execute a second task
+    debug:
+      msg: second task
