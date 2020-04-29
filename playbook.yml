@@ -11,3 +11,6 @@
   - name: execute a third task
     debug:
       msg: third task
+  - name: execute a fourth task
+    debug:
+      msg: fourth task
